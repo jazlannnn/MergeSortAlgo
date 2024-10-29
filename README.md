@@ -22,4 +22,3 @@ Time Complexity : The time complexity of an algorithm is a measure of the time a
 
 - Worst Case: O(n log n) - Performance remains consistent regardless of the initial order of elements.
 
-## Time Complexity
