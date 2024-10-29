@@ -21,3 +21,5 @@ Time Complexity : The time complexity of an algorithm is a measure of the time a
 - Average Case: O(n log n) - Always divides the array into two halves and merges them.
 
 - Worst Case: O(n log n) - Performance remains consistent regardless of the initial order of elements.
+
+## Time Complexity
